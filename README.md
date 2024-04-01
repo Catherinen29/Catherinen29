@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-# 💫About Me :
+# Hello, I'm Catherine 👋 :
 I'm currently working on space invaders 👽 
 
 I'm currently studying with Founders & Coders 🌱
