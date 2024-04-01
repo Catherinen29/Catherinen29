@@ -1,4 +1,4 @@
-### Hello, I'm Catherine 👋
+<!-- ### Hello, I'm Catherine 👋
 
 Currently working on space invaders 👽 
 
@@ -9,7 +9,7 @@ Talk to me about fiction 📚 or drinking craft beer 🍻
 Find me here: linkedin.com/in/catherine-nevin/
 
 Visit: catherinenevin.com
-
+--!>
 
 
 <!--
