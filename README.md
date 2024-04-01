@@ -36,9 +36,9 @@ I'm currently studying with Founders & Coders 🌱
 
 Talk to me about reading fiction 📚 or drinking craft beer 🍻
 
-Find me here: linkedin.com/in/catherine-nevin/
+Find me here: [catherine-nevin](https://linkedin.com/in/catherine-nevin/) 
 
-See more: catherinenevin.com
+See more: [catherinenevin.com](https://catherinen29.github.io/catherinenevin/)
 
 <br/>
 
